@@ -44,7 +44,7 @@ The screenshot above shows the BEAR MULTI TOOL terminal interface.
 
 ### [11] Telnet Service Audit
 
-![Telnet Service Audit Testing](images/Untitled.webpwebp)
+![Telnet Service Audit Testing](images/Untitled.webp)
 
 Tool 11 demonstrates Telnet service connectivity testing, connection status, and service banner inspection on authorized targets.
 
