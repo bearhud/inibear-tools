@@ -42,7 +42,7 @@ The screenshot above shows the BEAR MULTI TOOL terminal interface.
 
 ## Tool Testing
 
-### [11] Telnet Service Audit
+### Telnet Service Audit
 
 ![Telnet Service Audit Testing](images/Untitled.webp)
 
