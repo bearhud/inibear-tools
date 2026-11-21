@@ -83,7 +83,7 @@ Tool 11 demonstrates Telnet service connectivity testing, connection status, and
 
 ```sh
 DOWNLOAD:
-git clone https://github.com/YOUR_USERNAME/BEAR-MULTI-TOOL.git
+[git clone https://github.com/bearhud/inibear-tools.git]
 
 INSTALL:
 cd BEAR-MULTI-TOOL
