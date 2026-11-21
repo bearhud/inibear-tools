@@ -83,7 +83,7 @@ Tool 11 demonstrates Telnet service connectivity testing, connection status, and
 
 ```sh
 DOWNLOAD:
-[git clone https://github.com/bearhud/inibear-tools.git]
+git clone https://github.com/bearhud/inibear-tools.git
 
 INSTALL:
 cd BEAR-MULTI-TOOL
@@ -92,7 +92,7 @@ INSTALL REQUIREMENTS:
 pip install -r requirements.txt
 
 RUN:
-python main.py
+sudo python3 main.py
 ```
 
 ### Requirements
@@ -116,9 +116,8 @@ The developer is not responsible for unauthorized use.
 ## Contact Developer
 
 ```text
-Developer : bear
-Project   : BEAR MULTI TOOL
-Version   : 1.0
+discord   : beeeeeaaaar
+telegram  : https://t.me/+dESOloEsEyE4MmU1
 ```
 
 **Made with <3 by bear**
